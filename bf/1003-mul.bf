@@ -1,5 +1,5 @@
-# BrainF*ck Script to multiply two numbers
-# Result less 10 (a single digit number)
+# BrainF*ck Script that multiply two numbers and the
+# Result less than 10 (a single digit number)
 
 # given example 42: 4 will be in block #1 2 will be in block #2
 # block 0 will store the result
